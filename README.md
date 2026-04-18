@@ -8,3 +8,5 @@ From that page you should click on the Colab badge to start (again, avoid using 
 There are three questions at the end of the notebook in which you'll look at modifying the sampling temperature. 
 
 When you are done you'll save the completed notebook (with all code cells executed and questions answered) back to Github, or to Kaggle.  Here in Canvas you will submit the URL to your notebook.
+
+Colab URL: https://colab.research.google.com/github/sgeinitz/DSML4220/blob/main/lab8_rnn_surname_generation.ipynb
